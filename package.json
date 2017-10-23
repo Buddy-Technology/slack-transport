@@ -1,0 +1,34 @@
+{
+  "name": "slack-transport",
+  "version": "0.0.1",
+  "description": "Slack transport for Winston >= 3.0",
+  "main": "na",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/individual11/slack-transport.git"
+  },
+  "keywords": [
+    "Winston",
+    "Slack",
+    "Transport",
+    "JS",
+    "JavaScript",
+    "Node",
+    "Node.js"
+  ],
+  "author": "david@individual11.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/individual11/slack-transport/issues"
+  },
+  "homepage": "https://github.com/individual11/slack-transport#readme",
+  "dependencies": {
+    "winston-transport": "^3.0.1"
+  }
+}
