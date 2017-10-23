@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/individual11/slack-transport#readme",
   "dependencies": {
+    "node-fetch": "^1.7.3",
     "winston-transport": "^3.0.1"
   }
 }
