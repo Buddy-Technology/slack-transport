@@ -1,6 +1,6 @@
 {
   "name": "slack-transport",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Slack transport for Winston >= 3.0",
   "main": "lib/slack-transport",
   "directories": {
